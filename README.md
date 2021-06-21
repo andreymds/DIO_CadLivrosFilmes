@@ -1,8 +1,8 @@
-# Digital Innovation One - Prática .NET
+# Digital Innovation One (DIO) - Prática .NET
 
 ## Criando uma APP de cadastro em memória
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+Programa criado a partir do projeto postado por Eliézer Zarpelão (contatos abaixo) para prática dos conhcimentos em .NET no curso disponibilizado pelo DIO
 
 ## Contato
 
